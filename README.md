@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdur Rahman Rahat</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+<h3 align="center">A self-taught programmer and an enthusiastic one</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AbdurRa02110237?label=Abdur%20Rahman&logo=twitter&logoColor=r&style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/rahat_fci?color=%23E85E1A&label=Rahat%20Rahman&logo=reddit&logoColor=white&style=for-the-badge)
