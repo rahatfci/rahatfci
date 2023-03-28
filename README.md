@@ -14,8 +14,8 @@
 
 ### Connect with me:
 
-<a href="https://facebook.com/rahatfci" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" style="background-color:White" alt="rahatfci" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/abdur-rahman-rahat" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:White" alt="abdur-rahman-rahat" height="22" width="22" /></a>
+<a href="https://facebook.com/rahatfci" target="blank"><img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg](https://www.vectorlogo.zone/logos/facebook/facebook-official.svg)" style="background-color:White" alt="rahatfci" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/abdur-rahman-rahat" target="blank"><img src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)" style="background-color:White" alt="abdur-rahman-rahat" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
