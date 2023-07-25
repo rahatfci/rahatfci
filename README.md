@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/AbdurRa02110237?label=Abdur%20Rahman&logo=twitter&logoColor=r&style=for-the-badge)
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/rahat_fci?color=%23E85E1A&label=Rahat%20Rahman&logo=reddit&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on [CodeWare Ltd](https://codewareltd.com/)
+- 🔭 I’m currently working at [CodeWare Ltd](https://codewareltd.com/)
 
 - 🌱 I’m currently learning **Flutter**
 
